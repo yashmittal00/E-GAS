@@ -1,0 +1,15 @@
+
+<web-app>
+  <servlet>
+    <servlet-name>servletsignup</servlet-name>
+    <servlet-class>Register</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>servletsignup</servlet-name>
+    <url-pattern>/servletsignup/Register</url-pattern>
+  </servlet-mapping>
+  <welcome-file-list>
+    <welcome-file>signup.html</welcome-file>
+  </welcome-file-list>
+</web-app>

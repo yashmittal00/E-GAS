@@ -1,0 +1,64 @@
+body
+{
+	background : url('a.png');
+}
+.headings
+{
+	color:white;
+
+	
+}
+.headings2
+{
+	
+	margin:0px auto;
+	box-shadow: 2px 2px 5px;
+}
+.formm
+{
+	
+}
+.loginbox
+{
+	margin:0px auto;
+	border : 1px solid green;
+		background : lightgreen;
+}
+.linkk
+{
+	color : white;
+	font-size : 32px;
+	
+	}
+	.linkk:hover
+{
+	color : rgb(2,200,200);
+	font-size : 32px;
+	
+	}
+.login
+{
+	padding:8px;
+	width:100px;
+	color:white;
+	background:rgb(10,200,10);
+	border:1px solid rgb(10,200,10);
+}
+.login:hover
+{
+	padding:8px;
+	width:100px;
+	color:white;
+	background:rgb(10,100,10);
+	border:1px solid rgb(10,200,10);
+}
+.inps
+{
+	padding:8px;
+	border:1px solid transparent;
+}
+.inps:hover{
+	padding:8px;
+	border:1px solid transparent;
+	background:rgb(200,200,200);
+}
